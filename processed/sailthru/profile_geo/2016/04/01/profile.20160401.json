@@ -1,0 +1,508 @@
+{"scope": "city", "id": "5362b9aff9c510f432f47910", "label": "Alhambra, CA US", "value": 1}
+{"scope": "city", "id": "5362b9aff9c510f432f47910", "label": "Bradenton, FL US", "value": 1}
+{"scope": "city", "id": "5362b9aff9c510f432f47910", "label": "Brooklyn, NY US", "value": 45}
+{"scope": "city", "id": "5362b9aff9c510f432f47910", "label": "Fairfield, CT US", "value": 102}
+{"scope": "city", "id": "5362b9aff9c510f432f47910", "label": "Jersey City, NJ US", "value": 19}
+{"scope": "city", "id": "5362b9aff9c510f432f47910", "label": "New York, NY US", "value": 188}
+{"scope": "city", "id": "5362b9aff9c510f432f47910", "label": "San Antonio, TX US", "value": 4}
+{"scope": "city", "id": "5362b9aff9c510f432f47910", "label": "Waterford, CT US", "value": 1}
+{"scope": "city", "id": "5362b9aff9c510f432f47910", "label": "Johns Island, SC US", "value": 5}
+{"scope": "city", "id": "5362b9aff9c510f432f47910", "label": "Tenafly, NJ US", "value": 185}
+{"scope": "city", "id": "5362b9aff9c510f432f47910", "label": "New Britain, CT US", "value": 1}
+{"scope": "city", "id": "5362b9aff9c510f432f47910", "label": "Syosset, NY US", "value": 1}
+{"scope": "city", "id": "5362b9aff9c510f432f47910", "label": "Uncasville, CT US", "value": 7}
+{"scope": "city", "id": "5362b9aff9c510f432f47910", "label": "Park City, UT US", "value": 13}
+{"scope": "country", "id": "5362b9aff9c510f432f47910", "label": "US", "value": 574}
+{"scope": "state", "id": "5362b9aff9c510f432f47910", "label": "CA US", "value": 1}
+{"scope": "state", "id": "5362b9aff9c510f432f47910", "label": "CT US", "value": 111}
+{"scope": "state", "id": "5362b9aff9c510f432f47910", "label": "FL US", "value": 1}
+{"scope": "state", "id": "5362b9aff9c510f432f47910", "label": "NJ US", "value": 204}
+{"scope": "state", "id": "5362b9aff9c510f432f47910", "label": "NY US", "value": 234}
+{"scope": "state", "id": "5362b9aff9c510f432f47910", "label": "TX US", "value": 4}
+{"scope": "state", "id": "5362b9aff9c510f432f47910", "label": "SC US", "value": 5}
+{"scope": "state", "id": "5362b9aff9c510f432f47910", "label": "UT US", "value": 13}
+{"scope": "zip", "id": "5362b9aff9c510f432f47910", "label": "06385 US", "value": 1}
+{"scope": "zip", "id": "5362b9aff9c510f432f47910", "label": "06824 US", "value": 75}
+{"scope": "zip", "id": "5362b9aff9c510f432f47910", "label": "07310 US", "value": 16}
+{"scope": "zip", "id": "5362b9aff9c510f432f47910", "label": "10011 US", "value": 77}
+{"scope": "zip", "id": "5362b9aff9c510f432f47910", "label": "10036 US", "value": 52}
+{"scope": "zip", "id": "5362b9aff9c510f432f47910", "label": "10128 US", "value": 2}
+{"scope": "zip", "id": "5362b9aff9c510f432f47910", "label": "34209 US", "value": 1}
+{"scope": "zip", "id": "5362b9aff9c510f432f47910", "label": "78205 US", "value": 4}
+{"scope": "zip", "id": "5362b9aff9c510f432f47910", "label": "91801 US", "value": 1}
+{"scope": "zip", "id": "5362b9aff9c510f432f47910", "label": "11249 US", "value": 14}
+{"scope": "zip", "id": "5362b9aff9c510f432f47910", "label": "11217 US", "value": 29}
+{"scope": "zip", "id": "5362b9aff9c510f432f47910", "label": "29455 US", "value": 5}
+{"scope": "zip", "id": "5362b9aff9c510f432f47910", "label": "07670 US", "value": 185}
+{"scope": "zip", "id": "5362b9aff9c510f432f47910", "label": "06053 US", "value": 1}
+{"scope": "zip", "id": "5362b9aff9c510f432f47910", "label": "10023 US", "value": 1}
+{"scope": "zip", "id": "5362b9aff9c510f432f47910", "label": "07302 US", "value": 3}
+{"scope": "zip", "id": "5362b9aff9c510f432f47910", "label": "10024 US", "value": 27}
+{"scope": "zip", "id": "5362b9aff9c510f432f47910", "label": "11791 US", "value": 1}
+{"scope": "zip", "id": "5362b9aff9c510f432f47910", "label": "06382 US", "value": 7}
+{"scope": "zip", "id": "5362b9aff9c510f432f47910", "label": "10014 US", "value": 7}
+{"scope": "zip", "id": "5362b9aff9c510f432f47910", "label": "84060 US", "value": 13}
+{"scope": "zip", "id": "5362b9aff9c510f432f47910", "label": "10022 US", "value": 1}
+{"scope": "city", "id": "5362ba0bf9c510f432f4793c", "label": "Brooklyn, NY US", "value": 35}
+{"scope": "city", "id": "5362ba0bf9c510f432f4793c", "label": "East Longmeadow, MA US", "value": 1}
+{"scope": "city", "id": "5362ba0bf9c510f432f4793c", "label": "Fairfield, CT US", "value": 64}
+{"scope": "city", "id": "5362ba0bf9c510f432f4793c", "label": "Hartford, CT US", "value": 1}
+{"scope": "city", "id": "5362ba0bf9c510f432f4793c", "label": "Jenkintown, PA US", "value": 1}
+{"scope": "city", "id": "5362ba0bf9c510f432f4793c", "label": "Jersey City, NJ US", "value": 6}
+{"scope": "city", "id": "5362ba0bf9c510f432f4793c", "label": "Manchester, CT US", "value": 1}
+{"scope": "city", "id": "5362ba0bf9c510f432f4793c", "label": "Marlborough, MA US", "value": 2}
+{"scope": "city", "id": "5362ba0bf9c510f432f4793c", "label": "Nashville, TN US", "value": 2}
+{"scope": "city", "id": "5362ba0bf9c510f432f4793c", "label": "New York, NY US", "value": 275}
+{"scope": "city", "id": "5362ba0bf9c510f432f4793c", "label": "Newark, NJ US", "value": 1}
+{"scope": "city", "id": "5362ba0bf9c510f432f4793c", "label": "San Antonio, TX US", "value": 3}
+{"scope": "city", "id": "5362ba0bf9c510f432f4793c", "label": "Springfield, MA US", "value": 2}
+{"scope": "city", "id": "5362ba0bf9c510f432f4793c", "label": "Waterford, CT US", "value": 6}
+{"scope": "city", "id": "5362ba0bf9c510f432f4793c", "label": "Johns Island, SC US", "value": 4}
+{"scope": "city", "id": "5362ba0bf9c510f432f4793c", "label": "Tenafly, NJ US", "value": 39}
+{"scope": "city", "id": "5362ba0bf9c510f432f4793c", "label": "Irvine, CA US", "value": 1}
+{"scope": "city", "id": "5362ba0bf9c510f432f4793c", "label": "Uncasville, CT US", "value": 5}
+{"scope": "country", "id": "5362ba0bf9c510f432f4793c", "label": "US", "value": 451}
+{"scope": "state", "id": "5362ba0bf9c510f432f4793c", "label": "CT US", "value": 77}
+{"scope": "state", "id": "5362ba0bf9c510f432f4793c", "label": "MA US", "value": 5}
+{"scope": "state", "id": "5362ba0bf9c510f432f4793c", "label": "NJ US", "value": 46}
+{"scope": "state", "id": "5362ba0bf9c510f432f4793c", "label": "NY US", "value": 311}
+{"scope": "state", "id": "5362ba0bf9c510f432f4793c", "label": "PA US", "value": 1}
+{"scope": "state", "id": "5362ba0bf9c510f432f4793c", "label": "TN US", "value": 2}
+{"scope": "state", "id": "5362ba0bf9c510f432f4793c", "label": "TX US", "value": 3}
+{"scope": "state", "id": "5362ba0bf9c510f432f4793c", "label": "SC US", "value": 4}
+{"scope": "state", "id": "5362ba0bf9c510f432f4793c", "label": "CA US", "value": 1}
+{"scope": "zip", "id": "5362ba0bf9c510f432f4793c", "label": "01028 US", "value": 1}
+{"scope": "zip", "id": "5362ba0bf9c510f432f4793c", "label": "01752 US", "value": 2}
+{"scope": "zip", "id": "5362ba0bf9c510f432f4793c", "label": "06385 US", "value": 6}
+{"scope": "zip", "id": "5362ba0bf9c510f432f4793c", "label": "06824 US", "value": 23}
+{"scope": "zip", "id": "5362ba0bf9c510f432f4793c", "label": "07310 US", "value": 6}
+{"scope": "zip", "id": "5362ba0bf9c510f432f4793c", "label": "10011 US", "value": 146}
+{"scope": "zip", "id": "5362ba0bf9c510f432f4793c", "label": "10036 US", "value": 40}
+{"scope": "zip", "id": "5362ba0bf9c510f432f4793c", "label": "11226 US", "value": 5}
+{"scope": "zip", "id": "5362ba0bf9c510f432f4793c", "label": "19046 US", "value": 1}
+{"scope": "zip", "id": "5362ba0bf9c510f432f4793c", "label": "37203 US", "value": 2}
+{"scope": "zip", "id": "5362ba0bf9c510f432f4793c", "label": "78205 US", "value": 3}
+{"scope": "zip", "id": "5362ba0bf9c510f432f4793c", "label": "11249 US", "value": 7}
+{"scope": "zip", "id": "5362ba0bf9c510f432f4793c", "label": "11217 US", "value": 20}
+{"scope": "zip", "id": "5362ba0bf9c510f432f4793c", "label": "29455 US", "value": 4}
+{"scope": "zip", "id": "5362ba0bf9c510f432f4793c", "label": "07670 US", "value": 39}
+{"scope": "zip", "id": "5362ba0bf9c510f432f4793c", "label": "92619 US", "value": 1}
+{"scope": "zip", "id": "5362ba0bf9c510f432f4793c", "label": "10024 US", "value": 25}
+{"scope": "zip", "id": "5362ba0bf9c510f432f4793c", "label": "06382 US", "value": 5}
+{"scope": "zip", "id": "5362ba0bf9c510f432f4793c", "label": "10014 US", "value": 12}
+{"scope": "city", "id": "5367ae22f9c510f432f759e4", "label": "Brooklyn, NY US", "value": 65}
+{"scope": "city", "id": "5367ae22f9c510f432f759e4", "label": "Elizabeth, NJ US", "value": 1}
+{"scope": "city", "id": "5367ae22f9c510f432f759e4", "label": "Fairfield, CT US", "value": 115}
+{"scope": "city", "id": "5367ae22f9c510f432f759e4", "label": "Hawley, PA US", "value": 1}
+{"scope": "city", "id": "5367ae22f9c510f432f759e4", "label": "Jersey City, NJ US", "value": 52}
+{"scope": "city", "id": "5367ae22f9c510f432f759e4", "label": "Middletown, CT US", "value": 1}
+{"scope": "city", "id": "5367ae22f9c510f432f759e4", "label": "Nashville, TN US", "value": 1}
+{"scope": "city", "id": "5367ae22f9c510f432f759e4", "label": "New Britain, CT US", "value": 4}
+{"scope": "city", "id": "5367ae22f9c510f432f759e4", "label": "New York, NY US", "value": 382}
+{"scope": "city", "id": "5367ae22f9c510f432f759e4", "label": "Oakland, CA US", "value": 1}
+{"scope": "city", "id": "5367ae22f9c510f432f759e4", "label": "San Antonio, TX US", "value": 7}
+{"scope": "city", "id": "5367ae22f9c510f432f759e4", "label": "South Windsor, CT US", "value": 1}
+{"scope": "city", "id": "5367ae22f9c510f432f759e4", "label": "Thorofare, NJ US", "value": 1}
+{"scope": "city", "id": "5367ae22f9c510f432f759e4", "label": "Waterford, CT US", "value": 6}
+{"scope": "city", "id": "5367ae22f9c510f432f759e4", "label": "Waterbury, CT US", "value": 3}
+{"scope": "city", "id": "5367ae22f9c510f432f759e4", "label": "Johns Island, SC US", "value": 4}
+{"scope": "city", "id": "5367ae22f9c510f432f759e4", "label": "Cromwell, CT US", "value": 1}
+{"scope": "city", "id": "5367ae22f9c510f432f759e4", "label": "Westfield, MA US", "value": 1}
+{"scope": "city", "id": "5367ae22f9c510f432f759e4", "label": "Manchester, CT US", "value": 2}
+{"scope": "city", "id": "5367ae22f9c510f432f759e4", "label": "Tenafly, NJ US", "value": 192}
+{"scope": "city", "id": "5367ae22f9c510f432f759e4", "label": "Corona, NY US", "value": 1}
+{"scope": "city", "id": "5367ae22f9c510f432f759e4", "label": "Newington, CT US", "value": 1}
+{"scope": "city", "id": "5367ae22f9c510f432f759e4", "label": "Uncasville, CT US", "value": 26}
+{"scope": "city", "id": "5367ae22f9c510f432f759e4", "label": "Westford, MA US", "value": 1}
+{"scope": "city", "id": "5367ae22f9c510f432f759e4", "label": "San Francisco, CA US", "value": 1}
+{"scope": "city", "id": "5367ae22f9c510f432f759e4", "label": "Chicago, IL US", "value": 2}
+{"scope": "city", "id": "5367ae22f9c510f432f759e4", "label": "Park City, UT US", "value": 4}
+{"scope": "city", "id": "5367ae22f9c510f432f759e4", "label": "San Diego, CA US", "value": 1}
+{"scope": "city", "id": "5367ae22f9c510f432f759e4", "label": "Westport, CT US", "value": 4}
+{"scope": "city", "id": "5367ae22f9c510f432f759e4", "label": "Fairfax, VA US", "value": 1}
+{"scope": "country", "id": "5367ae22f9c510f432f759e4", "label": "US", "value": 889}
+{"scope": "state", "id": "5367ae22f9c510f432f759e4", "label": "CA US", "value": 3}
+{"scope": "state", "id": "5367ae22f9c510f432f759e4", "label": "CT US", "value": 164}
+{"scope": "state", "id": "5367ae22f9c510f432f759e4", "label": "NJ US", "value": 246}
+{"scope": "state", "id": "5367ae22f9c510f432f759e4", "label": "NY US", "value": 449}
+{"scope": "state", "id": "5367ae22f9c510f432f759e4", "label": "PA US", "value": 1}
+{"scope": "state", "id": "5367ae22f9c510f432f759e4", "label": "TN US", "value": 1}
+{"scope": "state", "id": "5367ae22f9c510f432f759e4", "label": "TX US", "value": 7}
+{"scope": "state", "id": "5367ae22f9c510f432f759e4", "label": "SC US", "value": 4}
+{"scope": "state", "id": "5367ae22f9c510f432f759e4", "label": "MA US", "value": 2}
+{"scope": "state", "id": "5367ae22f9c510f432f759e4", "label": "IL US", "value": 2}
+{"scope": "state", "id": "5367ae22f9c510f432f759e4", "label": "UT US", "value": 4}
+{"scope": "state", "id": "5367ae22f9c510f432f759e4", "label": "VA US", "value": 1}
+{"scope": "zip", "id": "5367ae22f9c510f432f759e4", "label": "06074 US", "value": 1}
+{"scope": "zip", "id": "5367ae22f9c510f432f759e4", "label": "06385 US", "value": 6}
+{"scope": "zip", "id": "5367ae22f9c510f432f759e4", "label": "06824 US", "value": 43}
+{"scope": "zip", "id": "5367ae22f9c510f432f759e4", "label": "07306 US", "value": 26}
+{"scope": "zip", "id": "5367ae22f9c510f432f759e4", "label": "07310 US", "value": 26}
+{"scope": "zip", "id": "5367ae22f9c510f432f759e4", "label": "08086 US", "value": 1}
+{"scope": "zip", "id": "5367ae22f9c510f432f759e4", "label": "10011 US", "value": 128}
+{"scope": "zip", "id": "5367ae22f9c510f432f759e4", "label": "10012 US", "value": 1}
+{"scope": "zip", "id": "5367ae22f9c510f432f759e4", "label": "10036 US", "value": 105}
+{"scope": "zip", "id": "5367ae22f9c510f432f759e4", "label": "10044 US", "value": 7}
+{"scope": "zip", "id": "5367ae22f9c510f432f759e4", "label": "11226 US", "value": 5}
+{"scope": "zip", "id": "5367ae22f9c510f432f759e4", "label": "11249 US", "value": 17}
+{"scope": "zip", "id": "5367ae22f9c510f432f759e4", "label": "18428 US", "value": 1}
+{"scope": "zip", "id": "5367ae22f9c510f432f759e4", "label": "37203 US", "value": 1}
+{"scope": "zip", "id": "5367ae22f9c510f432f759e4", "label": "78205 US", "value": 7}
+{"scope": "zip", "id": "5367ae22f9c510f432f759e4", "label": "06708 US", "value": 1}
+{"scope": "zip", "id": "5367ae22f9c510f432f759e4", "label": "11217 US", "value": 35}
+{"scope": "zip", "id": "5367ae22f9c510f432f759e4", "label": "29455 US", "value": 4}
+{"scope": "zip", "id": "5367ae22f9c510f432f759e4", "label": "06416 US", "value": 1}
+{"scope": "zip", "id": "5367ae22f9c510f432f759e4", "label": "01086 US", "value": 1}
+{"scope": "zip", "id": "5367ae22f9c510f432f759e4", "label": "06040 US", "value": 2}
+{"scope": "zip", "id": "5367ae22f9c510f432f759e4", "label": "06704 US", "value": 2}
+{"scope": "zip", "id": "5367ae22f9c510f432f759e4", "label": "07670 US", "value": 192}
+{"scope": "zip", "id": "5367ae22f9c510f432f759e4", "label": "11368 US", "value": 1}
+{"scope": "zip", "id": "5367ae22f9c510f432f759e4", "label": "06053 US", "value": 1}
+{"scope": "zip", "id": "5367ae22f9c510f432f759e4", "label": "10017 US", "value": 3}
+{"scope": "zip", "id": "5367ae22f9c510f432f759e4", "label": "06111 US", "value": 1}
+{"scope": "zip", "id": "5367ae22f9c510f432f759e4", "label": "10024 US", "value": 66}
+{"scope": "zip", "id": "5367ae22f9c510f432f759e4", "label": "10023 US", "value": 1}
+{"scope": "zip", "id": "5367ae22f9c510f432f759e4", "label": "06382 US", "value": 26}
+{"scope": "zip", "id": "5367ae22f9c510f432f759e4", "label": "06051 US", "value": 1}
+{"scope": "zip", "id": "5367ae22f9c510f432f759e4", "label": "10014 US", "value": 20}
+{"scope": "zip", "id": "5367ae22f9c510f432f759e4", "label": "01886 US", "value": 1}
+{"scope": "zip", "id": "5367ae22f9c510f432f759e4", "label": "94107 US", "value": 1}
+{"scope": "zip", "id": "5367ae22f9c510f432f759e4", "label": "10018 US", "value": 5}
+{"scope": "zip", "id": "5367ae22f9c510f432f759e4", "label": "60601 US", "value": 2}
+{"scope": "zip", "id": "5367ae22f9c510f432f759e4", "label": "84060 US", "value": 4}
+{"scope": "zip", "id": "5367ae22f9c510f432f759e4", "label": "92106 US", "value": 1}
+{"scope": "zip", "id": "5367ae22f9c510f432f759e4", "label": "06880 US", "value": 4}
+{"scope": "zip", "id": "5367ae22f9c510f432f759e4", "label": "22030 US", "value": 1}
+{"scope": "city", "id": "5367b23af9c510f432f75c24", "label": "Brooklyn, NY US", "value": 7}
+{"scope": "city", "id": "5367b23af9c510f432f75c24", "label": "Jersey City, NJ US", "value": 2}
+{"scope": "city", "id": "5367b23af9c510f432f75c24", "label": "New York, NY US", "value": 75}
+{"scope": "city", "id": "5367b23af9c510f432f75c24", "label": "Tenafly, NJ US", "value": 5}
+{"scope": "country", "id": "5367b23af9c510f432f75c24", "label": "US", "value": 89}
+{"scope": "state", "id": "5367b23af9c510f432f75c24", "label": "NJ US", "value": 7}
+{"scope": "state", "id": "5367b23af9c510f432f75c24", "label": "NY US", "value": 82}
+{"scope": "zip", "id": "5367b23af9c510f432f75c24", "label": "07310 US", "value": 2}
+{"scope": "zip", "id": "5367b23af9c510f432f75c24", "label": "10011 US", "value": 7}
+{"scope": "zip", "id": "5367b23af9c510f432f75c24", "label": "10036 US", "value": 21}
+{"scope": "zip", "id": "5367b23af9c510f432f75c24", "label": "07670 US", "value": 5}
+{"scope": "zip", "id": "5367b23af9c510f432f75c24", "label": "10014 US", "value": 4}
+{"scope": "zip", "id": "5367b23af9c510f432f75c24", "label": "11217 US", "value": 4}
+{"scope": "zip", "id": "5367b23af9c510f432f75c24", "label": "10024 US", "value": 43}
+{"scope": "city", "id": "536a655ef9c510f432fa65a3", "label": "Princeton, NJ US", "value": 310}
+{"scope": "city", "id": "536a655ef9c510f432fa65a3", "label": "Trenton, NJ US", "value": 54}
+{"scope": "country", "id": "536a655ef9c510f432fa65a3", "label": "US", "value": 364}
+{"scope": "state", "id": "536a655ef9c510f432fa65a3", "label": "NJ US", "value": 364}
+{"scope": "zip", "id": "536a655ef9c510f432fa65a3", "label": "08540 US", "value": 310}
+{"scope": "zip", "id": "536a655ef9c510f432fa65a3", "label": "08611 US", "value": 54}
+{"scope": "city", "id": "536a655ef9c510f432fa65a5", "label": "Bradenton, FL US", "value": 3}
+{"scope": "city", "id": "536a655ef9c510f432fa65a5", "label": "Grass Valley, CA US", "value": 1}
+{"scope": "city", "id": "536a655ef9c510f432fa65a5", "label": "Hayward, CA US", "value": 4}
+{"scope": "city", "id": "536a655ef9c510f432fa65a5", "label": "Menlo Park, CA US", "value": 4}
+{"scope": "city", "id": "536a655ef9c510f432fa65a5", "label": "Milpitas, CA US", "value": 13}
+{"scope": "city", "id": "536a655ef9c510f432fa65a5", "label": "Oakland, CA US", "value": 3}
+{"scope": "city", "id": "536a655ef9c510f432fa65a5", "label": "Saint Petersburg, FL US", "value": 1}
+{"scope": "city", "id": "536a655ef9c510f432fa65a5", "label": "San Francisco, CA US", "value": 2}
+{"scope": "city", "id": "536a655ef9c510f432fa65a5", "label": "South Gate, CA US", "value": 1}
+{"scope": "city", "id": "536a655ef9c510f432fa65a5", "label": "Sunnyvale, CA US", "value": 99}
+{"scope": "city", "id": "536a655ef9c510f432fa65a5", "label": "Sylmar, CA US", "value": 1}
+{"scope": "city", "id": "536a655ef9c510f432fa65a5", "label": "Tavares, FL US", "value": 1}
+{"scope": "city", "id": "536a655ef9c510f432fa65a5", "label": "Santa Clara, CA US", "value": 5}
+{"scope": "city", "id": "536a655ef9c510f432fa65a5", "label": "Las Vegas, NV US", "value": 1}
+{"scope": "city", "id": "536a655ef9c510f432fa65a5", "label": "Reno, NV US", "value": 2}
+{"scope": "country", "id": "536a655ef9c510f432fa65a5", "label": "US", "value": 166}
+{"scope": "state", "id": "536a655ef9c510f432fa65a5", "label": "CA US", "value": 136}
+{"scope": "state", "id": "536a655ef9c510f432fa65a5", "label": "FL US", "value": 6}
+{"scope": "state", "id": "536a655ef9c510f432fa65a5", "label": "NV US", "value": 3}
+{"scope": "state", "id": "536a655ef9c510f432fa65a5", "label": "NC US", "value": 1}
+{"scope": "zip", "id": "536a655ef9c510f432fa65a5", "label": "32778 US", "value": 1}
+{"scope": "zip", "id": "536a655ef9c510f432fa65a5", "label": "34209 US", "value": 3}
+{"scope": "zip", "id": "536a655ef9c510f432fa65a5", "label": "90280 US", "value": 1}
+{"scope": "zip", "id": "536a655ef9c510f432fa65a5", "label": "91342 US", "value": 1}
+{"scope": "zip", "id": "536a655ef9c510f432fa65a5", "label": "94086 US", "value": 99}
+{"scope": "zip", "id": "536a655ef9c510f432fa65a5", "label": "94102 US", "value": 1}
+{"scope": "zip", "id": "536a655ef9c510f432fa65a5", "label": "94612 US", "value": 1}
+{"scope": "zip", "id": "536a655ef9c510f432fa65a5", "label": "95945 US", "value": 1}
+{"scope": "zip", "id": "536a655ef9c510f432fa65a5", "label": "94544 US", "value": 1}
+{"scope": "zip", "id": "536a655ef9c510f432fa65a5", "label": "95050 US", "value": 5}
+{"scope": "zip", "id": "536a655ef9c510f432fa65a5", "label": "95035 US", "value": 12}
+{"scope": "zip", "id": "536a655ef9c510f432fa65a5", "label": "89109 US", "value": 1}
+{"scope": "zip", "id": "536a655ef9c510f432fa65a5", "label": "94109 US", "value": 1}
+{"scope": "zip", "id": "536a655ef9c510f432fa65a5", "label": "94621 US", "value": 1}
+{"scope": "zip", "id": "536a655ef9c510f432fa65a5", "label": "89501 US", "value": 2}
+{"scope": "city", "id": "536a655ef9c510f432fa65a6", "label": "Pittsburgh, PA US", "value": 598}
+{"scope": "country", "id": "536a655ef9c510f432fa65a6", "label": "US", "value": 598}
+{"scope": "state", "id": "536a655ef9c510f432fa65a6", "label": "PA US", "value": 598}
+{"scope": "zip", "id": "536a655ef9c510f432fa65a6", "label": "15201 US", "value": 56}
+{"scope": "zip", "id": "536a655ef9c510f432fa65a6", "label": "15227 US", "value": 1}
+{"scope": "zip", "id": "536a655ef9c510f432fa65a6", "label": "15258 US", "value": 20}
+{"scope": "zip", "id": "536a655ef9c510f432fa65a6", "label": "15222 US", "value": 220}
+{"scope": "zip", "id": "536a655ef9c510f432fa65a6", "label": "15203 US", "value": 108}
+{"scope": "zip", "id": "536a655ef9c510f432fa65a6", "label": "15211 US", "value": 18}
+{"scope": "zip", "id": "536a655ef9c510f432fa65a6", "label": "15212 US", "value": 53}
+{"scope": "city", "id": "536a655ef9c510f432fa65a9", "label": "Aradippou, 03 CY", "value": 1}
+{"scope": "city", "id": "536a655ef9c510f432fa65a9", "label": "Limassol, 05 CY", "value": 16}
+{"scope": "city", "id": "536a655ef9c510f432fa65a9", "label": "Nicosia, 04 CY", "value": 38}
+{"scope": "country", "id": "536a655ef9c510f432fa65a9", "label": "CY", "value": 86}
+{"scope": "state", "id": "536a655ef9c510f432fa65a9", "label": "03 CY", "value": 1}
+{"scope": "state", "id": "536a655ef9c510f432fa65a9", "label": "04 CY", "value": 38}
+{"scope": "state", "id": "536a655ef9c510f432fa65a9", "label": "05 CY", "value": 16}
+{"scope": "city", "id": "536a655ef9c510f432fa65b3", "label": "Bend, OR US", "value": 2}
+{"scope": "city", "id": "536a655ef9c510f432fa65b3", "label": "Mammoth Lakes, CA US", "value": 1}
+{"scope": "city", "id": "536a655ef9c510f432fa65b3", "label": "Saint George, UT US", "value": 2}
+{"scope": "city", "id": "536a655ef9c510f432fa65b3", "label": "San Diego, CA US", "value": 318}
+{"scope": "city", "id": "536a655ef9c510f432fa65b3", "label": "Lake Elsinore, CA US", "value": 1}
+{"scope": "country", "id": "536a655ef9c510f432fa65b3", "label": "US", "value": 328}
+{"scope": "state", "id": "536a655ef9c510f432fa65b3", "label": "CA US", "value": 320}
+{"scope": "state", "id": "536a655ef9c510f432fa65b3", "label": "OR US", "value": 2}
+{"scope": "state", "id": "536a655ef9c510f432fa65b3", "label": "UT US", "value": 2}
+{"scope": "zip", "id": "536a655ef9c510f432fa65b3", "label": "84770 US", "value": 2}
+{"scope": "zip", "id": "536a655ef9c510f432fa65b3", "label": "92101 US", "value": 122}
+{"scope": "zip", "id": "536a655ef9c510f432fa65b3", "label": "92107 US", "value": 194}
+{"scope": "zip", "id": "536a655ef9c510f432fa65b3", "label": "93546 US", "value": 1}
+{"scope": "zip", "id": "536a655ef9c510f432fa65b3", "label": "97701 US", "value": 2}
+{"scope": "zip", "id": "536a655ef9c510f432fa65b3", "label": "92103 US", "value": 2}
+{"scope": "zip", "id": "536a655ef9c510f432fa65b3", "label": "92530 US", "value": 1}
+{"scope": "city", "id": "536a655ef9c510f432fa65b7", "label": "Bagumbayan, 05 PH", "value": 1}
+{"scope": "city", "id": "536a655ef9c510f432fa65b7", "label": "Cainta, 53 PH", "value": 9}
+{"scope": "city", "id": "536a655ef9c510f432fa65b7", "label": "Mandaluyong City, D9 PH", "value": 27}
+{"scope": "city", "id": "536a655ef9c510f432fa65b7", "label": "Mandaluyong, D9 PH", "value": 10}
+{"scope": "city", "id": "536a655ef9c510f432fa65b7", "label": "Pasig City, D9 PH", "value": 7}
+{"scope": "city", "id": "536a655ef9c510f432fa65b7", "label": "Pasig, 50 PH", "value": 4}
+{"scope": "city", "id": "536a655ef9c510f432fa65b7", "label": "Pasig, D9 PH", "value": 20}
+{"scope": "city", "id": "536a655ef9c510f432fa65b7", "label": "Quezon City, F2 PH", "value": 23}
+{"scope": "city", "id": "536a655ef9c510f432fa65b7", "label": "San Juan, D9 PH", "value": 6}
+{"scope": "city", "id": "536a655ef9c510f432fa65b7", "label": "Ugong Norte, F2 PH", "value": 4}
+{"scope": "city", "id": "536a655ef9c510f432fa65b7", "label": "Manila, D9 PH", "value": 8}
+{"scope": "city", "id": "536a655ef9c510f432fa65b7", "label": "Taytay, 53 PH", "value": 7}
+{"scope": "city", "id": "536a655ef9c510f432fa65b7", "label": "Valenzuela, D9 PH", "value": 1}
+{"scope": "country", "id": "536a655ef9c510f432fa65b7", "label": "PH", "value": 127}
+{"scope": "state", "id": "536a655ef9c510f432fa65b7", "label": "05 PH", "value": 1}
+{"scope": "state", "id": "536a655ef9c510f432fa65b7", "label": "50 PH", "value": 4}
+{"scope": "state", "id": "536a655ef9c510f432fa65b7", "label": "53 PH", "value": 16}
+{"scope": "state", "id": "536a655ef9c510f432fa65b7", "label": "D9 PH", "value": 79}
+{"scope": "state", "id": "536a655ef9c510f432fa65b7", "label": "F2 PH", "value": 27}
+{"scope": "zip", "id": "536a655ef9c510f432fa65b7", "label": "1900 PH", "value": 6}
+{"scope": "zip", "id": "536a655ef9c510f432fa65b7", "label": "1006 PH", "value": 8}
+{"scope": "zip", "id": "536a655ef9c510f432fa65b7", "label": "1602 PH", "value": 15}
+{"scope": "zip", "id": "536a655ef9c510f432fa65b7", "label": "1920 PH", "value": 7}
+{"scope": "zip", "id": "536a655ef9c510f432fa65b7", "label": "0860 PH", "value": 2}
+{"scope": "zip", "id": "536a655ef9c510f432fa65b7", "label": "1502 PH", "value": 13}
+{"scope": "zip", "id": "536a655ef9c510f432fa65b7", "label": "1101 PH", "value": 5}
+{"scope": "zip", "id": "536a655ef9c510f432fa65b7", "label": "1551 PH", "value": 1}
+{"scope": "zip", "id": "536a655ef9c510f432fa65b7", "label": "1553 PH", "value": 1}
+{"scope": "city", "id": "536a655ef9c510f432fa65b9", "label": "Anaheim, CA US", "value": 1}
+{"scope": "city", "id": "536a655ef9c510f432fa65b9", "label": "Apo, AE US", "value": 78}
+{"scope": "city", "id": "536a655ef9c510f432fa65b9", "label": "Chula Vista, CA US", "value": 27}
+{"scope": "city", "id": "536a655ef9c510f432fa65b9", "label": "Dallas, TX US", "value": 28}
+{"scope": "city", "id": "536a655ef9c510f432fa65b9", "label": "Imperial Beach, CA US", "value": 4}
+{"scope": "city", "id": "536a655ef9c510f432fa65b9", "label": "Los Angeles, CA US", "value": 16}
+{"scope": "city", "id": "536a655ef9c510f432fa65b9", "label": "San Francisco, CA US", "value": 53}
+{"scope": "city", "id": "536a655ef9c510f432fa65b9", "label": "San Jose, CA US", "value": 2365}
+{"scope": "city", "id": "536a655ef9c510f432fa65b9", "label": "Winter Park, FL US", "value": 17}
+{"scope": "city", "id": "536a655ef9c510f432fa65b9", "label": "Woodbridge, NJ US", "value": 115}
+{"scope": "city", "id": "536a655ef9c510f432fa65b9", "label": "Boca Raton, FL US", "value": 85}
+{"scope": "city", "id": "536a655ef9c510f432fa65b9", "label": "Matawan, NJ US", "value": 39}
+{"scope": "city", "id": "536a655ef9c510f432fa65b9", "label": "National City, CA US", "value": 12}
+{"scope": "city", "id": "536a655ef9c510f432fa65b9", "label": "Spring Valley, CA US", "value": 1}
+{"scope": "city", "id": "536a655ef9c510f432fa65b9", "label": "Elk Grove Village, IL US", "value": 7}
+{"scope": "city", "id": "536a655ef9c510f432fa65b9", "label": "Tempe, AZ US", "value": 12}
+{"scope": "city", "id": "536a655ef9c510f432fa65b9", "label": "Phoenix, AZ US", "value": 10}
+{"scope": "city", "id": "536a655ef9c510f432fa65b9", "label": "La Mesa, CA US", "value": 2}
+{"scope": "city", "id": "536a655ef9c510f432fa65b9", "label": "Dublin, 07 IE", "value": 3}
+{"scope": "city", "id": "536a655ef9c510f432fa65b9", "label": "Sydney, 02 AU", "value": 2}
+{"scope": "city", "id": "536a655ef9c510f432fa65b9", "label": "Wilmington, DE US", "value": 200}
+{"scope": "city", "id": "536a655ef9c510f432fa65b9", "label": "Seattle, WA US", "value": 70}
+{"scope": "city", "id": "536a655ef9c510f432fa65b9", "label": "Santa Fe Springs, CA US", "value": 3}
+{"scope": "city", "id": "536a655ef9c510f432fa65b9", "label": "Tijuana, 02 MX", "value": 1}
+{"scope": "country", "id": "536a655ef9c510f432fa65b9", "label": "A1", "value": 17}
+{"scope": "country", "id": "536a655ef9c510f432fa65b9", "label": "US", "value": 3372}
+{"scope": "country", "id": "536a655ef9c510f432fa65b9", "label": "IE", "value": 3}
+{"scope": "country", "id": "536a655ef9c510f432fa65b9", "label": "AU", "value": 2}
+{"scope": "country", "id": "536a655ef9c510f432fa65b9", "label": "MX", "value": 1}
+{"scope": "state", "id": "536a655ef9c510f432fa65b9", "label": "AE US", "value": 78}
+{"scope": "state", "id": "536a655ef9c510f432fa65b9", "label": "CA US", "value": 2518}
+{"scope": "state", "id": "536a655ef9c510f432fa65b9", "label": "FL US", "value": 102}
+{"scope": "state", "id": "536a655ef9c510f432fa65b9", "label": "NJ US", "value": 154}
+{"scope": "state", "id": "536a655ef9c510f432fa65b9", "label": "TX US", "value": 28}
+{"scope": "state", "id": "536a655ef9c510f432fa65b9", "label": "IL US", "value": 7}
+{"scope": "state", "id": "536a655ef9c510f432fa65b9", "label": "AZ US", "value": 22}
+{"scope": "state", "id": "536a655ef9c510f432fa65b9", "label": "07 IE", "value": 3}
+{"scope": "state", "id": "536a655ef9c510f432fa65b9", "label": "02 AU", "value": 2}
+{"scope": "state", "id": "536a655ef9c510f432fa65b9", "label": "DE US", "value": 200}
+{"scope": "state", "id": "536a655ef9c510f432fa65b9", "label": "WA US", "value": 70}
+{"scope": "state", "id": "536a655ef9c510f432fa65b9", "label": "02 MX", "value": 1}
+{"scope": "zip", "id": "536a655ef9c510f432fa65b9", "label": "07095 US", "value": 115}
+{"scope": "zip", "id": "536a655ef9c510f432fa65b9", "label": "09824 US", "value": 78}
+{"scope": "zip", "id": "536a655ef9c510f432fa65b9", "label": "32789 US", "value": 17}
+{"scope": "zip", "id": "536a655ef9c510f432fa65b9", "label": "91913 US", "value": 19}
+{"scope": "zip", "id": "536a655ef9c510f432fa65b9", "label": "91932 US", "value": 4}
+{"scope": "zip", "id": "536a655ef9c510f432fa65b9", "label": "95103 US", "value": 2330}
+{"scope": "zip", "id": "536a655ef9c510f432fa65b9", "label": "33431 US", "value": 85}
+{"scope": "zip", "id": "536a655ef9c510f432fa65b9", "label": "07747 US", "value": 39}
+{"scope": "zip", "id": "536a655ef9c510f432fa65b9", "label": "91950 US", "value": 12}
+{"scope": "zip", "id": "536a655ef9c510f432fa65b9", "label": "91912 US", "value": 6}
+{"scope": "zip", "id": "536a655ef9c510f432fa65b9", "label": "90011 US", "value": 2}
+{"scope": "zip", "id": "536a655ef9c510f432fa65b9", "label": "91977 US", "value": 1}
+{"scope": "zip", "id": "536a655ef9c510f432fa65b9", "label": "60007 US", "value": 7}
+{"scope": "zip", "id": "536a655ef9c510f432fa65b9", "label": "85281 US", "value": 12}
+{"scope": "zip", "id": "536a655ef9c510f432fa65b9", "label": "85034 US", "value": 10}
+{"scope": "zip", "id": "536a655ef9c510f432fa65b9", "label": "90041 US", "value": 1}
+{"scope": "zip", "id": "536a655ef9c510f432fa65b9", "label": "91941 US", "value": 1}
+{"scope": "zip", "id": "536a655ef9c510f432fa65b9", "label": "90013 US", "value": 6}
+{"scope": "zip", "id": "536a655ef9c510f432fa65b9", "label": "1001 AU", "value": 2}
+{"scope": "zip", "id": "536a655ef9c510f432fa65b9", "label": "90022 US", "value": 5}
+{"scope": "zip", "id": "536a655ef9c510f432fa65b9", "label": "91910 US", "value": 2}
+{"scope": "zip", "id": "536a655ef9c510f432fa65b9", "label": "19893 US", "value": 200}
+{"scope": "zip", "id": "536a655ef9c510f432fa65b9", "label": "98109 US", "value": 70}
+{"scope": "zip", "id": "536a655ef9c510f432fa65b9", "label": "91942 US", "value": 1}
+{"scope": "zip", "id": "536a655ef9c510f432fa65b9", "label": "90670 US", "value": 3}
+{"scope": "zip", "id": "536a655ef9c510f432fa65b9", "label": "92173 MX", "value": 1}
+{"scope": "city", "id": "536a655ef9c510f432fa65ba", "label": "Carmel, IN US", "value": 2}
+{"scope": "city", "id": "536a655ef9c510f432fa65ba", "label": "Indianapolis, IN US", "value": 3}
+{"scope": "city", "id": "536a655ef9c510f432fa65ba", "label": "Plainfield, IN US", "value": 758}
+{"scope": "city", "id": "536a655ef9c510f432fa65ba", "label": "Seymour, IN US", "value": 1}
+{"scope": "city", "id": "536a655ef9c510f432fa65ba", "label": "Wyoming, MI US", "value": 1}
+{"scope": "city", "id": "536a655ef9c510f432fa65ba", "label": "Barrington, IL US", "value": 1}
+{"scope": "city", "id": "536a655ef9c510f432fa65ba", "label": "Milwaukee, WI US", "value": 2}
+{"scope": "city", "id": "536a655ef9c510f432fa65ba", "label": "Las Vegas, NV US", "value": 2}
+{"scope": "country", "id": "536a655ef9c510f432fa65ba", "label": "US", "value": 773}
+{"scope": "state", "id": "536a655ef9c510f432fa65ba", "label": "IN US", "value": 764}
+{"scope": "state", "id": "536a655ef9c510f432fa65ba", "label": "MI US", "value": 1}
+{"scope": "state", "id": "536a655ef9c510f432fa65ba", "label": "IL US", "value": 1}
+{"scope": "state", "id": "536a655ef9c510f432fa65ba", "label": "WI US", "value": 2}
+{"scope": "state", "id": "536a655ef9c510f432fa65ba", "label": "NV US", "value": 2}
+{"scope": "zip", "id": "536a655ef9c510f432fa65ba", "label": "46168 US", "value": 758}
+{"scope": "zip", "id": "536a655ef9c510f432fa65ba", "label": "46268 US", "value": 1}
+{"scope": "zip", "id": "536a655ef9c510f432fa65ba", "label": "47274 US", "value": 1}
+{"scope": "zip", "id": "536a655ef9c510f432fa65ba", "label": "49519 US", "value": 1}
+{"scope": "zip", "id": "536a655ef9c510f432fa65ba", "label": "46224 US", "value": 2}
+{"scope": "zip", "id": "536a655ef9c510f432fa65ba", "label": "60010 US", "value": 1}
+{"scope": "zip", "id": "536a655ef9c510f432fa65ba", "label": "53270 US", "value": 2}
+{"scope": "zip", "id": "536a655ef9c510f432fa65ba", "label": "89101 US", "value": 2}
+{"scope": "city", "id": "536a655ef9c510f432fa65bc", "label": "Abu Dhabi, 01 AE", "value": 4}
+{"scope": "city", "id": "536a655ef9c510f432fa65bc", "label": "Baltimore, MD US", "value": 2}
+{"scope": "city", "id": "536a655ef9c510f432fa65bc", "label": "Brooklyn, NY US", "value": 1}
+{"scope": "city", "id": "536a655ef9c510f432fa65bc", "label": "Cape Coral, FL US", "value": 40}
+{"scope": "city", "id": "536a655ef9c510f432fa65bc", "label": "Coatesville, PA US", "value": 96}
+{"scope": "city", "id": "536a655ef9c510f432fa65bc", "label": "Naples, FL US", "value": 56}
+{"scope": "city", "id": "536a655ef9c510f432fa65bc", "label": "Phoenixville, PA US", "value": 2}
+{"scope": "city", "id": "536a655ef9c510f432fa65bc", "label": "Chicago, IL US", "value": 3}
+{"scope": "city", "id": "536a655ef9c510f432fa65bc", "label": "Sankt Wolfgang, 02 DE", "value": 1}
+{"scope": "city", "id": "536a655ef9c510f432fa65bc", "label": "Royersford, PA US", "value": 1}
+{"scope": "city", "id": "536a655ef9c510f432fa65bc", "label": "Philadelphia, PA US", "value": 2}
+{"scope": "country", "id": "536a655ef9c510f432fa65bc", "label": "AE", "value": 4}
+{"scope": "country", "id": "536a655ef9c510f432fa65bc", "label": "US", "value": 205}
+{"scope": "country", "id": "536a655ef9c510f432fa65bc", "label": "DE", "value": 1}
+{"scope": "state", "id": "536a655ef9c510f432fa65bc", "label": "01 AE", "value": 4}
+{"scope": "state", "id": "536a655ef9c510f432fa65bc", "label": "FL US", "value": 97}
+{"scope": "state", "id": "536a655ef9c510f432fa65bc", "label": "MD US", "value": 2}
+{"scope": "state", "id": "536a655ef9c510f432fa65bc", "label": "NY US", "value": 1}
+{"scope": "state", "id": "536a655ef9c510f432fa65bc", "label": "PA US", "value": 101}
+{"scope": "state", "id": "536a655ef9c510f432fa65bc", "label": "IL US", "value": 3}
+{"scope": "state", "id": "536a655ef9c510f432fa65bc", "label": "02 DE", "value": 1}
+{"scope": "zip", "id": "536a655ef9c510f432fa65bc", "label": "11225 US", "value": 1}
+{"scope": "zip", "id": "536a655ef9c510f432fa65bc", "label": "19320 US", "value": 96}
+{"scope": "zip", "id": "536a655ef9c510f432fa65bc", "label": "19460 US", "value": 2}
+{"scope": "zip", "id": "536a655ef9c510f432fa65bc", "label": "21224 US", "value": 1}
+{"scope": "zip", "id": "536a655ef9c510f432fa65bc", "label": "21276 US", "value": 1}
+{"scope": "zip", "id": "536a655ef9c510f432fa65bc", "label": "33914 US", "value": 31}
+{"scope": "zip", "id": "536a655ef9c510f432fa65bc", "label": "34119 US", "value": 56}
+{"scope": "zip", "id": "536a655ef9c510f432fa65bc", "label": "60602 US", "value": 3}
+{"scope": "zip", "id": "536a655ef9c510f432fa65bc", "label": "84427 DE", "value": 1}
+{"scope": "zip", "id": "536a655ef9c510f432fa65bc", "label": "19468 US", "value": 1}
+{"scope": "zip", "id": "536a655ef9c510f432fa65bc", "label": "19107 US", "value": 1}
+{"scope": "zip", "id": "536a655ef9c510f432fa65bc", "label": "19139 US", "value": 1}
+{"scope": "zip", "id": "536a655ef9c510f432fa65bc", "label": "33904 US", "value": 9}
+{"scope": "city", "id": "536a655ef9c510f432fa65be", "label": "Richelieu, QC CA", "value": 49}
+{"scope": "city", "id": "536a655ef9c510f432fa65be", "label": "Victoriaville, QC CA", "value": 108}
+{"scope": "city", "id": "536a655ef9c510f432fa65be", "label": "Wildwood, FL US", "value": 2}
+{"scope": "city", "id": "536a655ef9c510f432fa65be", "label": "Tallahassee, FL US", "value": 1}
+{"scope": "city", "id": "536a655ef9c510f432fa65be", "label": "Scott, LA US", "value": 1}
+{"scope": "city", "id": "536a655ef9c510f432fa65be", "label": "Nashville, TN US", "value": 3}
+{"scope": "country", "id": "536a655ef9c510f432fa65be", "label": "CA", "value": 162}
+{"scope": "country", "id": "536a655ef9c510f432fa65be", "label": "US", "value": 7}
+{"scope": "state", "id": "536a655ef9c510f432fa65be", "label": "QC CA", "value": 157}
+{"scope": "state", "id": "536a655ef9c510f432fa65be", "label": "FL US", "value": 3}
+{"scope": "state", "id": "536a655ef9c510f432fa65be", "label": "LA US", "value": 1}
+{"scope": "state", "id": "536a655ef9c510f432fa65be", "label": "TN US", "value": 3}
+{"scope": "zip", "id": "536a655ef9c510f432fa65be", "label": "G6P CA", "value": 108}
+{"scope": "zip", "id": "536a655ef9c510f432fa65be", "label": "34785 US", "value": 2}
+{"scope": "zip", "id": "536a655ef9c510f432fa65be", "label": "32301 US", "value": 1}
+{"scope": "zip", "id": "536a655ef9c510f432fa65be", "label": "70583 US", "value": 1}
+{"scope": "zip", "id": "536a655ef9c510f432fa65be", "label": "37243 US", "value": 3}
+{"scope": "city", "id": "536a655ef9c510f432fa65c4", "label": "Cape Town, 11 ZA", "value": 4}
+{"scope": "city", "id": "536a655ef9c510f432fa65c4", "label": "Irvine, CA US", "value": 191}
+{"scope": "city", "id": "536a655ef9c510f432fa65c4", "label": "Lancaster, CA US", "value": 1}
+{"scope": "city", "id": "536a655ef9c510f432fa65c4", "label": "Madrid, 29 ES", "value": 1}
+{"scope": "city", "id": "536a655ef9c510f432fa65c4", "label": "Menlo Park, CA US", "value": 1}
+{"scope": "city", "id": "536a655ef9c510f432fa65c4", "label": "Tustin, CA US", "value": 40}
+{"scope": "country", "id": "536a655ef9c510f432fa65c4", "label": "ES", "value": 1}
+{"scope": "country", "id": "536a655ef9c510f432fa65c4", "label": "US", "value": 233}
+{"scope": "country", "id": "536a655ef9c510f432fa65c4", "label": "ZA", "value": 4}
+{"scope": "state", "id": "536a655ef9c510f432fa65c4", "label": "11 ZA", "value": 4}
+{"scope": "state", "id": "536a655ef9c510f432fa65c4", "label": "29 ES", "value": 1}
+{"scope": "state", "id": "536a655ef9c510f432fa65c4", "label": "CA US", "value": 233}
+{"scope": "zip", "id": "536a655ef9c510f432fa65c4", "label": "28013 ES", "value": 1}
+{"scope": "zip", "id": "536a655ef9c510f432fa65c4", "label": "7100 ZA", "value": 1}
+{"scope": "zip", "id": "536a655ef9c510f432fa65c4", "label": "7945 ZA", "value": 2}
+{"scope": "zip", "id": "536a655ef9c510f432fa65c4", "label": "8060 ZA", "value": 1}
+{"scope": "zip", "id": "536a655ef9c510f432fa65c4", "label": "92602 US", "value": 148}
+{"scope": "zip", "id": "536a655ef9c510f432fa65c4", "label": "92620 US", "value": 43}
+{"scope": "zip", "id": "536a655ef9c510f432fa65c4", "label": "92780 US", "value": 12}
+{"scope": "zip", "id": "536a655ef9c510f432fa65c4", "label": "92782 US", "value": 28}
+{"scope": "zip", "id": "536a655ef9c510f432fa65c4", "label": "94025 US", "value": 1}
+{"scope": "city", "id": "536a655ef9c510f432fa65ca", "label": "Grand Prairie, TX US", "value": 4}
+{"scope": "city", "id": "536a655ef9c510f432fa65ca", "label": "Killeen, TX US", "value": 65}
+{"scope": "city", "id": "536a655ef9c510f432fa65ca", "label": "Stephenville, TX US", "value": 28}
+{"scope": "city", "id": "536a655ef9c510f432fa65ca", "label": "Buffalo, TX US", "value": 1}
+{"scope": "country", "id": "536a655ef9c510f432fa65ca", "label": "US", "value": 98}
+{"scope": "state", "id": "536a655ef9c510f432fa65ca", "label": "TX US", "value": 98}
+{"scope": "zip", "id": "536a655ef9c510f432fa65ca", "label": "76542 US", "value": 17}
+{"scope": "zip", "id": "536a655ef9c510f432fa65ca", "label": "76549 US", "value": 32}
+{"scope": "zip", "id": "536a655ef9c510f432fa65ca", "label": "76401 US", "value": 27}
+{"scope": "zip", "id": "536a655ef9c510f432fa65ca", "label": "75831 US", "value": 1}
+{"scope": "city", "id": "536a655ef9c510f432fa65ce", "label": "Barrie, ON CA", "value": 233}
+{"scope": "city", "id": "536a655ef9c510f432fa65ce", "label": "Mississauga, ON CA", "value": 2}
+{"scope": "city", "id": "536a655ef9c510f432fa65ce", "label": "North York, ON CA", "value": 4}
+{"scope": "city", "id": "536a655ef9c510f432fa65ce", "label": "Toronto, ON CA", "value": 12}
+{"scope": "city", "id": "536a655ef9c510f432fa65ce", "label": "Sudbury, ON CA", "value": 2}
+{"scope": "city", "id": "536a655ef9c510f432fa65ce", "label": "Hanmer, ON CA", "value": 2}
+{"scope": "city", "id": "536a655ef9c510f432fa65ce", "label": "Port Isabel, TX US", "value": 4}
+{"scope": "city", "id": "536a655ef9c510f432fa65ce", "label": "Scarborough, ON CA", "value": 2}
+{"scope": "city", "id": "536a655ef9c510f432fa65ce", "label": "Fort Erie, ON CA", "value": 1}
+{"scope": "city", "id": "536a655ef9c510f432fa65ce", "label": "Ottawa, ON CA", "value": 1}
+{"scope": "country", "id": "536a655ef9c510f432fa65ce", "label": "CA", "value": 261}
+{"scope": "country", "id": "536a655ef9c510f432fa65ce", "label": "US", "value": 4}
+{"scope": "state", "id": "536a655ef9c510f432fa65ce", "label": "ON CA", "value": 259}
+{"scope": "state", "id": "536a655ef9c510f432fa65ce", "label": "TX US", "value": 4}
+{"scope": "zip", "id": "536a655ef9c510f432fa65ce", "label": "L4M CA", "value": 180}
+{"scope": "zip", "id": "536a655ef9c510f432fa65ce", "label": "L4N CA", "value": 53}
+{"scope": "zip", "id": "536a655ef9c510f432fa65ce", "label": "P3A CA", "value": 2}
+{"scope": "zip", "id": "536a655ef9c510f432fa65ce", "label": "P3P CA", "value": 2}
+{"scope": "zip", "id": "536a655ef9c510f432fa65ce", "label": "78578 US", "value": 4}
+{"scope": "zip", "id": "536a655ef9c510f432fa65ce", "label": "M1B CA", "value": 2}
+{"scope": "zip", "id": "536a655ef9c510f432fa65ce", "label": "L2A CA", "value": 1}
+{"scope": "zip", "id": "536a655ef9c510f432fa65ce", "label": "K1Z CA", "value": 1}
+{"scope": "city", "id": "536a655ef9c510f432fa65d0", "label": "Moline, IL US", "value": 43}
+{"scope": "city", "id": "536a655ef9c510f432fa65d0", "label": "Rock Island, IL US", "value": 12}
+{"scope": "city", "id": "536a655ef9c510f432fa65d0", "label": "Madison, WI US", "value": 2}
+{"scope": "city", "id": "536a655ef9c510f432fa65d0", "label": "Loves Park, IL US", "value": 2}
+{"scope": "country", "id": "536a655ef9c510f432fa65d0", "label": "US", "value": 59}
+{"scope": "state", "id": "536a655ef9c510f432fa65d0", "label": "IL US", "value": 57}
+{"scope": "state", "id": "536a655ef9c510f432fa65d0", "label": "WI US", "value": 2}
+{"scope": "zip", "id": "536a655ef9c510f432fa65d0", "label": "61201 US", "value": 12}
+{"scope": "zip", "id": "536a655ef9c510f432fa65d0", "label": "61265 US", "value": 43}
+{"scope": "zip", "id": "536a655ef9c510f432fa65d0", "label": "53717 US", "value": 2}
+{"scope": "zip", "id": "536a655ef9c510f432fa65d0", "label": "61111 US", "value": 2}
+{"scope": "city", "id": "536a655ef9c510f432fa65d4", "label": "Los Angeles, CA US", "value": 7}
+{"scope": "city", "id": "536a655ef9c510f432fa65d4", "label": "Riverside, CA US", "value": 2}
+{"scope": "city", "id": "536a655ef9c510f432fa65d4", "label": "Hialeah, FL US", "value": 1}
+{"scope": "country", "id": "536a655ef9c510f432fa65d4", "label": "US", "value": 10}
+{"scope": "state", "id": "536a655ef9c510f432fa65d4", "label": "CA US", "value": 9}
+{"scope": "state", "id": "536a655ef9c510f432fa65d4", "label": "FL US", "value": 1}
+{"scope": "zip", "id": "536a655ef9c510f432fa65d4", "label": "90066 US", "value": 7}
+{"scope": "zip", "id": "536a655ef9c510f432fa65d4", "label": "33012 US", "value": 1}
+{"scope": "city", "id": "536a655ef9c510f432fa65d6", "label": "Surrey, BC CA", "value": 29}
+{"scope": "country", "id": "536a655ef9c510f432fa65d6", "label": "CA", "value": 29}
+{"scope": "state", "id": "536a655ef9c510f432fa65d6", "label": "BC CA", "value": 29}
+{"scope": "zip", "id": "536a655ef9c510f432fa65d6", "label": "V3W CA", "value": 26}
+{"scope": "zip", "id": "536a655ef9c510f432fa65d6", "label": "V3X CA", "value": 3}
